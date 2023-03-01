@@ -2,7 +2,7 @@
   "id": "TinyMCE (v2)",
   "name": "TinyMCE (v2)",
   "src": "https://contentful.tiny.cloud/",
-  "fieldTypes": ["Text"],
+  "fieldTypes": ["Text", "Rich Text"],
   "parameters": {
     "installation": [
       {
